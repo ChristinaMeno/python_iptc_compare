@@ -1,7 +1,7 @@
 Depends:
 ii  python-iptcdata                           1.0.4-1                                         Python bindings for the iptcdata library
 ii  python-pyexiv2                            0.1.3-6fakesync1                                Python binding to Exiv2
-PIL should be bundled with python by now...... I hope for your sake you are running one new enough for this to be true
+ii  python-imaging                            1.1.7-2                                         Python Imaging Library
 
 
 Running:
